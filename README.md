@@ -1,4 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
+# Dio-desafio-github-primeiro-repositorio
 
 #### Desafio de projeto sobre Git/Github
 
@@ -6,4 +6,6 @@
 
 #### Inicio do primeiro projeto Dio de Git.
 
+###### Link útil para Markdown
 
+[Sintaxe Basica Markdown] (https://www.markdownguide.org/basic-syntax)
