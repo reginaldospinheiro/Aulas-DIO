@@ -1,13 +1,14 @@
-# Desafio de projeto sobre Git/Github
+# **_Desafio de projeto sobre Git/Github_**
 
-#### rEPOSITÓTIO CRIADO PARA O DESAFIO DE PROJETO.
+#### **REPOSITÓTIO CRIADO PARA DOCUMENTAÇÃO DAS AULAS.**
 
 ###### Data 15/10/2021
 
-#### Inicio do primeiro projeto Dio de Git.
+#### AQUI SERÁ ARMAZENADO LINKS IMPO
 
-###### Link útil para Markdown
-
+###### Link para melhor aprendizado de Markdown
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax).
+
+
 
 
