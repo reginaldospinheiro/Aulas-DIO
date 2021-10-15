@@ -8,4 +8,6 @@
 
 ###### Link útil para Markdown
 
-[Sintaxe Basica Markdown] (https://www.markdownguide.org/basic-syntax)
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax)
+
+[Duck Duck Go](https://duckduckgo.com).
