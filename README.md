@@ -1,6 +1,6 @@
-# Dio-desafio-github-primeiro-repositorio
+# Desafio de projeto sobre Git/Github
 
-#### Desafio de projeto sobre Git/Github
+#### rEPOSITÓTIO CRIADO PARA O DESAFIO DE PROJETO.
 
 ###### Data 15/10/2021
 
