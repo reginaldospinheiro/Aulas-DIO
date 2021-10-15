@@ -1,4 +1,4 @@
-# **_Desafio de projeto sobre Git/Github_**
+# **_Repositório Git/Github_**
 
 #### **REPOSITÓTIO CRIADO PARA DOCUMENTAÇÃO DAS AULAS.**
 
