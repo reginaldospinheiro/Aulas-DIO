@@ -71,6 +71,7 @@ _Alguns comando somente funcionam após a criação desta pasta._
 ##### **git remote add origin e a url da repositorio do github que você deseja apontar** -> Comando para que o git local possa apontar para uma pasta remota do github.
 ##### **git push -u origin master** -> Para enviar os projetos do repositório local para o repositório online do github. _"OBS: Caso esteja trabalhando em outro branch, substitua o nome master pelo nome do branch"_
 ##### **git pull** -> para baixar as atualizações do repositório github para o git local.
+##### **git checkout nomedasuabranch** -> Mudar para a nova Branch.
 
 <br/>
 
