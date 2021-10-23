@@ -66,7 +66,12 @@ _Alguns comando somente funcionam após a criação desta pasta._
 
 ##### **git init** -> Para que o git comece a versionar e gerenciar a pasta. Ela é oculta.
 ##### **git add .** -> Para adicionar os arquivos para a fila de commit.
-##### **git commit** -> Para commitar o projeto.
+##### **git commit -m "descrição breve do commit"** -> Para commit de projeto.
+##### **git remote -v** -> Confira se o endereço do repositório do GitHub está correto no projeto local.
+##### **git remote add origin e a url da repositorio do github que você deseja apontar** -> Comando para que o git local possa apontar para uma pasta remota do github.
+##### **git push -u origin master** -> Para enviar os projetos do repositório local para o repositório online do github. _"OBS: Caso esteja trabalhando em outro branch, substitua o nome master pelo nome do branch"_
+##### **git pull** -> para baixar as atualizações do repositório github para o git local.
+##### **git checkout nomedasuabranch** -> Mudar para a nova Branch.
 
 <br/>
 
